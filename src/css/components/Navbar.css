@@ -1,0 +1,14 @@
+
+.navBar {
+  font-family: 'Oswald', sans-serif !important;
+}
+
+.navBar {
+  background-color: #e4f9ff !important;
+}
+
+.nav-link {
+  color: black !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+}
